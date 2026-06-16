@@ -1,7 +1,7 @@
 {
-  "active": false,
-  "down_start_date_time": "2026-06-15T19:00:00Z",
-  "down_end_date_time": "2026-06-15T19:30:00Z",
-  "down_show_start_time": "2026-06-15T14:00:00Z",
-  "call_stop_time": "2026-06-15T18:30:00Z"
+  "active": true,
+  "down_start_date_time": "2026-06-16T19:00:00Z",
+  "down_end_date_time": "2026-06-16T19:30:00Z",
+  "down_show_start_time": "2026-06-16T14:00:00Z",
+  "call_stop_time": "2026-06-16T18:30:00Z"
 }
